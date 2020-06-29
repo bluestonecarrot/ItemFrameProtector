@@ -1,0 +1,5 @@
+name: ItemFrameProtector
+version: 0.0.5
+author: bluestonecarrot
+main: bluestonecarrot.itemframeprotector.Main
+api-version: 1.15
